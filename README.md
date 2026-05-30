@@ -6,7 +6,7 @@
 
 > CLI em Python que busca a tabela do Imposto de Renda direto da Receita Federal e calcula seu imposto automaticamente.
 
-**Desenvolvida 100% em Galaxy A16 rodando Ubuntu + XFCE4 via Termux.**
+**Desenvolvida 100% em Galaxy A06 via Termux.**
 
 ### Por que esse projeto?
 
