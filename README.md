@@ -1,5 +1,9 @@
 # Calculadora IRPF 2026 Auto-Update 🇧🇷
 
+## Demo Interativa
+[[asciicast](https://asciinema.org/a/Sps4WqH6O4tEMgdm.svg)](https://asciinema.org/a/Sps4WqH6O4tEMgdm)
+
+
 > CLI em Python que busca a tabela do Imposto de Renda direto da Receita Federal e calcula seu imposto automaticamente.
 
 **Desenvolvida 100% em Galaxy A16 rodando Ubuntu + XFCE4 via Termux.**
