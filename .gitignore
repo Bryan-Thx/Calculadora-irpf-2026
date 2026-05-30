@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+tabela_irpf_2026.json
+.venv/
